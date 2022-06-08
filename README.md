@@ -4,7 +4,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bawantha&hide=contribs,prs)
   
-<a href="https://app.daily.dev/bawantha"><img src="https://github.com/bawantha/bawantha/blob/master/devcard.svg" width="400" alt="Bawantha Rajapaksha's Dev Card"/></a>
+<a href="https://app.daily.dev/bawantha"><img src="https://github.com/bawantha/bawantha/blob/main/devcard.svg" width="400" alt="Bawantha Rajapaksha's Dev Card"/></a>
 
 
 </p>
