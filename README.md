@@ -5,7 +5,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bawantha&hide=contribs,prs)
   
 
-  
+<a href="https://app.daily.dev/bawantha"><img src="https://api.daily.dev/devcards/485cc69fa5fc40a981fce597a7a5ca1c.png?r=2fb" width="400" alt="Bawantha Mihiran Rajapaksha's Dev Card"/></a>
 
 
 </p>
