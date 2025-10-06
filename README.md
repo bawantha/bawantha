@@ -7,7 +7,7 @@
 # BAWANTHA RAJAPAKSHA
 ## Senior Android Engineer
 
-Sydney, NSW | bawantha.inbox@gmail.com | 0481 109 800  
+Sydney, NSW | bawantha.inbox@gmail.com 
 LinkedIn: linkedin.com/in/bawantha-rajapaksha | GitHub: github.com/bawantha
 
 ---
