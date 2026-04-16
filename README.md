@@ -27,12 +27,9 @@ Remote property inspection platform for **renters & buyers**
 
 ---
 
-### ⚙️ [OzzyDT](https://ozzydt.com.au/)
-Digital solutions platform for **Australian businesses**  
-
-- Custom software & automation  
-- Scalable web/mobile systems  
-- Business workflow optimisation  
+### ⚙️ [OzzyDT.com.au](https://ozzydt.com.au/)
+driver test route marketplace for australian driver test  
+ 
 
 ---
 
