@@ -1,6 +1,6 @@
 ## 🚀 Building Now
 
-### 🔧 [Uteflow](https://www.uteflow.com.au/)
+### 🔧 [Uteflow.com.au](https://www.uteflow.com.au/)
 Smart workflow platform for **tradies & ute-based businesses in Australia 🇦🇺**
 
 - Job & workflow automation  
@@ -18,7 +18,7 @@ Gamified mission platform for **engagement & communities**
 
 ---
 
-### 🏠 [InspectMates](https://inspectmates.com.au/)
+### 🏠 [InspectMates.com.au](https://inspectmates.com.au/)
 Remote property inspection platform for **renters & buyers**
 
 - Book inspections on your behalf  
@@ -52,15 +52,3 @@ Digital solutions platform for **Australian businesses**
   <img src="https://raw.githubusercontent.com/bawantha/bawantha/master/profile-summary-card-output/2077/4-productive-time.svg" />
 </p>
 
----
-
-## 🌏 Focus
-
-> Building niche, high-impact SaaS products for real industries in Australia.
-
----
-
-## 🔗 Connect
-
-- 🌐 https://www.uteflow.com.au/
-- 💼 LinkedIn: *(add here)*
