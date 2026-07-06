@@ -29,14 +29,7 @@ Gamified mission platform for **engagement & communities**
 
 ---
 
-### 🏠 [InspectMates.com.au](https://inspectmates.com.au/)
-Remote property inspection platform for **renters & buyers**
 
-- Book inspections on your behalf  
-- Photo-backed reports  
-- Ideal for interstate / busy renters :contentReference[oaicite:1]{index=1}  
-
----
 
 ### ⚙️ [OzzyDT.com.au](https://ozzydt.com.au/)
 driver test route marketplace for australian driver test  
