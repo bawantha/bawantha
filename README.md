@@ -31,9 +31,6 @@ Gamified mission platform for **engagement & communities**
 
 
 
-### ⚙️ [OzzyDT.com.au](https://ozzydt.com.au/)
-driver test route marketplace for australian driver test  
- 
 
 ---
 
