@@ -14,10 +14,6 @@ Smart workflow platform for **tradies & service businesses in Australia 🇦🇺
 ### 🔧 [Uteflow.com.au](https://www.uteflow.com.au/)
 Smart workflow platform for **tradies & vehicle rental businesses in Australia 🇦🇺**
 
-- Job & workflow automation  
-- Quotes, invoices & client tracking  
-- Mobile-first field experience  
-
 ---
 
 ### 🎮 [BadgerOps](https://badgerops.com/)
